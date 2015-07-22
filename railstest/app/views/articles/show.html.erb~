@@ -1,0 +1,6 @@
+<p>
+  <strong>Title:</strong>
+  <%= @article %>
+</p>
+ 
+
